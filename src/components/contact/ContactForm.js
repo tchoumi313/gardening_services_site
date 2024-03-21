@@ -21,7 +21,7 @@ const ContactForm = () => {
                     <span>Need Our Service Or Have Queries</span>
                     <h2>Send Us Message.</h2>
                   </div>
-                  <form action="/">
+                  <form action="https://wa.me/237695547004">
                     <input type="text" placeholder="Your Name" />
                     <input type="email" placeholder="Your Email" />
                     <input type="text" placeholder="Your Subject" />
@@ -76,23 +76,21 @@ const ContactForm = () => {
         <div className="container">
           <div className="row">
             <div className="col-xl-3 col-lg-3 col-md-6">
-              <Link to="/" className="l-btn">
+              <Link
+                to="https://web.facebook.com/beaudouin.tchoumi"
+                className="l-btn"
+              >
                 Facebook
               </Link>
             </div>
             <div className="col-xl-3 col-lg-3 col-md-6">
-              <Link to="/" className="l-btn">
-                Twitter
+              <Link to="mailto:tchouminzikeubd@gmail.com" className="l-btn">
+                Gmail
               </Link>
             </div>
             <div className="col-xl-3 col-lg-3 col-md-6">
-              <Link to="/" className="l-btn">
-                Instagram
-              </Link>
-            </div>
-            <div className="col-xl-3 col-lg-3 col-md-6">
-              <Link to="/" className="l-btn">
-                Pinterest
+              <Link to="https://wa.me/237695547004" className="l-btn">
+                WhatsApp
               </Link>
             </div>
           </div>

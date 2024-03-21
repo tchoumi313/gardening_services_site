@@ -32,7 +32,7 @@ const Footer = () => {
                     </p>
                   </div>
                   <div className="footer-info">
-                    <Link to="/">
+                    <Link to="https://wa.me/237695547004">
                       <FaPhoneAlt /> +237 695547004
                     </Link>
                   </div>

@@ -10,7 +10,8 @@ const HeaderTop = () => {
             <div className="header-info">
               <ul>
                 <li>
-                  <FaPhoneAlt /> Call on :<a href="/"> +237 695547004</a>
+                  <FaPhoneAlt /> Call on :
+                  <a href="https://wa.me/237695547004"> +237 695547004</a>
                 </li>
                 <li>
                   <FaClock /> Open Hours : Mon-Fri 08:00 - 18:00
