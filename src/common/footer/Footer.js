@@ -33,7 +33,7 @@ const Footer = () => {
                   </div>
                   <div className="footer-info">
                     <Link to="/">
-                      <FaPhoneAlt /> +237 6955470047
+                      <FaPhoneAlt /> +237 695547004
                     </Link>
                   </div>
                   <div className="footer-text">

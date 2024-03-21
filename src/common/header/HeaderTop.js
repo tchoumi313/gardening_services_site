@@ -20,9 +20,9 @@ const HeaderTop = () => {
           </div>
           <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">
             <div className="header-social text-center text-xl-end text-lg-end">
-              <a href="facebook.com">Facebook</a>
-              <a href="facebook.com">Twitter</a>
-              <a href="instagram.com">Instagram</a>
+              <a href="mailto:tchouminzikeubd@gmail.com">Gmail</a>
+              <a href="https://web.facebook.com/beaudouin.tchoumi">Facebook</a>
+              <a href="https://wa.me/237695547004">WhatsApp</a>
             </div>
           </div>
         </div>
